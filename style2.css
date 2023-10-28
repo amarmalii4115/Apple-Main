@@ -1,0 +1,1060 @@
+@import url('https://v1.fontapi.ir/css/SFProDisplay');
+
+.row{
+    border-bottom: 2px solid #D2D2D7;
+}
+.comp{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    width: 940px;
+height: 150px;
+margin-bottom: 40px;
+flex-shrink: 0;
+align-items: center;
+}
+.comp>li>a{
+    text-decoration: none;
+    color: #06C;
+}
+#section4{
+    background-color: #f2f2f2;
+    padding-top: 36px;
+    padding-bottom: 36px;
+}
+#smilegirl{
+    display: flex;
+    width: 85vw;
+height: 617px;
+padding: 17px 50.078px 15px 100.031px;
+margin-left:25px;
+justify-content: space-evenly;
+align-items: center;
+flex-shrink: 0;
+background: #01012A;
+
+}
+
+#smilegirl>div>text{
+    color: #FFF;
+text-align: center;
+font-family: SF Pro Display, sans-serif;
+font-size: 90px;
+font-style: normal;
+font-weight: 700;
+letter-spacing: -0.27px;
+}
+#smilegirl>div{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.ptag{
+    color: #2997FF;
+font-family: SF Pro Display, sans-serif;
+font-size: 21px;
+
+letter-spacing: 0.231px;
+}
+#section5{
+    width: 1512px;
+height: 2344px;
+flex-shrink: 0;
+background-color: #f2f2f2;
+display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#section5>h1{
+    color: #1D1D1F;
+text-align: center;
+font-family: SF Pro Display;
+font-size: 56px;
+font-style: normal;
+font-weight: 700;
+line-height: 60px; /* 107.143% */
+letter-spacing: -0.28px;
+}
+.specialcareer{
+    font-size: 24px; 
+    font-style: normal;
+    font-weight: 700;
+    line-height: 28px;
+    letter-spacing: 0.216px;
+}
+.specialcareer2{
+font-family: SF Pro Display;
+font-size: 48px;
+font-style: normal;
+font-weight: 700;
+line-height: 52.008px; /* 108.349% */
+letter-spacing: -0.144px;
+}
+.ways{
+    width: 1380px;
+    height: 703px;
+    flex-shrink: 0;
+    background: #FFF;
+    margin-bottom: 30px;
+}
+.ways01{
+    margin-top: 95px;
+}
+.ways1{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 20px;
+}
+.items>text{
+    color: #6E6E73;
+font-family: SF Pro Display;
+font-size: 21px;
+font-style: normal;
+font-weight: 400;
+line-height: 29.001px; /* 138.1% */
+letter-spacing: 0.231px;
+margin-top: 20px;
+}
+.items>img{
+    padding-bottom: 24px;
+}
+
+.findyourdeal{
+width: 169.797px;
+height: 56px;
+padding: 18px 30.6px 18px 31px;
+justify-content: center;
+
+align-items: center;
+    border-radius: 980px;
+    background: #0071E3;
+}
+.findyourdeal>a{
+    color: #FFF;
+text-align: center;
+font-family: SF Pro Display;
+text-decoration: none;
+font-size: 17px;
+font-style: normal;
+font-weight: 400;
+line-height: 20px; /* 117.648% */
+letter-spacing: -0.374px;
+}
+.buy2{
+    color: #FFF;
+text-align: center;
+font-family: SF Pro Display;
+font-size: 12px;
+font-style: normal;
+font-weight: 400;
+line-height: 16px; /* 133.337% */
+letter-spacing: -0.12px;
+border: none;
+width: 45px;
+height: 24px;
+padding: 5px 11.784px 5px 11.969px;
+margin-top: 18px;
+margin-bottom: 10px;
+border-radius: 980px;
+background: #0071E3;
+}
+.findyourdeal1{
+    margin-top: 80px;
+    color: #1D1D1F;
+text-align: center;
+font-family: SF Pro Display;
+font-size: 17px;
+font-style: normal;
+font-weight: 400;
+line-height: 25px; /* 147.059% */
+letter-spacing: -0.374px;
+}
+.findyourdeal1>a{
+    color: #06C;
+text-align: center;
+font-family: SF Pro Display;
+text-decoration: none;
+font-size: 17px;
+font-style: normal;
+font-weight: 400;
+line-height: 25px; /* 147.059% */
+letter-spacing: -0.374px;
+}
+.section5part2{
+    display: flex;
+
+}
+.part2-1{
+width: 675px;
+height: 720px;
+display: flex;
+flex-direction: column;
+align-items: center;
+background: #fff;
+margin-right: 30px;
+padding-top:49px;
+padding-bottom: 0%;
+margin-bottom: 30px;
+justify-content:space-between;
+}
+
+.part2-2{
+display: flex;
+flex-direction: column;
+    width: 675px;
+height: 720px;
+background: #fff;
+padding-top:49px;
+margin-bottom: 30px;
+padding-bottom: 0%;
+justify-content:space-between;
+}
+.t1{
+    color: #1D1D1F;
+text-align: center;
+font-family: SF Pro Display;
+font-size: 48px;
+font-style: normal;
+font-weight: 700;
+line-height: 52.008px; /* 108.349% */
+letter-spacing: -0.144px;
+}
+.t2{
+    color: #1D1D1F;
+text-align: center;
+font-family: SF Pro Display;
+font-size: 21px;
+font-style: normal;
+font-weight: 400;
+line-height: 29.001px; /* 138.1% */
+letter-spacing: 0.231px;
+}
+.trade>span>a{
+    color: #06C;
+text-align: center;
+font-family: SF Pro Display;
+font-size: 21px;
+font-style: normal;
+font-weight: 400;
+line-height: 29.001px; /* 138.1% */
+letter-spacing: 0.231px;
+text-decoration: none;
+}
+.t3{
+    color: #1D1D1F;
+text-align: center;
+font-family: SF Pro Display;
+font-size: 48px;
+font-style: normal;
+font-weight: 700;
+line-height: 52.008px; /* 108.349% */
+letter-spacing: -0.144px;
+}
+.t4{
+text-align: center;
+font-family: SF Pro Display;
+font-size: 21px;
+font-style: normal;
+font-weight: 400;
+line-height: 29.001px; /* 138.1% */
+letter-spacing: 0.231px;
+}
+.cashbackcard>span>a{
+    color: #06C;
+text-align: center;
+font-family: SF Pro Display;
+font-size: 21px;
+font-style: normal;
+font-weight: 400;
+line-height: 29.001px; /* 138.1% */
+letter-spacing: 0.231px;
+text-decoration: none;
+}
+
+.whyapple{
+    position: relative;
+    display: inline-block;
+
+}
+.whyapple>img{
+    display: block;
+}
+
+.why{
+    position: absolute;
+    width: 469.223px;
+height: 110px;
+justify-content: center;
+    bottom: 136px;
+    top: 134px;
+    right: 475.97px;
+    left: 475.77px;
+    color: #1D1D1F;
+text-align: center;
+font-family: SF Pro Display;
+font-size: 48px;
+font-style: normal;
+font-weight: 700;
+line-height: 52.008px; /* 108.349% */
+letter-spacing: -0.144px;
+
+}
+.why2{
+    position: absolute;
+    width: 438.263px;
+    height: 112px;
+    justify-content: center;
+    bottom: 12px;
+    top: 258px;
+    right: 554.5px;
+    left: 488.28px;
+    color: #1D1D1F;
+    text-align: center;
+    font-family: SF Pro Display;
+    font-size: 21px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 29.001px; /* 138.1% */
+    letter-spacing: 0.231px;
+}
+.whyapple>span>a{
+    position: absolute;
+    justify-content: center;
+    bottom: 136px;
+    top: 397px;
+    right: 617.27px;
+    left: 639.64px;
+    color: #06C;
+text-align: center;
+font-family: SF Pro Display;
+font-size: 21px;
+font-style: normal;
+font-weight: 400;
+line-height: 29.001px; /* 138.1% */
+letter-spacing: 0.231px;
+text-decoration: none;
+}
+#section6{
+    background: #f2f2f2;
+}
+.feature{
+    color: #1D1D1F;
+text-align: center;
+font-family: SF Pro Display;
+font-size: 56px;
+font-style: normal;
+font-weight: 700;
+line-height: 60px; /* 107.143% */
+letter-spacing: -0.28px;
+background-color: #f2f2f2;
+padding-bottom: 80px;
+}
+
+.magsafe{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    width: 1380px;
+height: 530px;
+flex-shrink: 0;
+background-color: white;
+margin: 0px 66px 10px 66px;
+box-sizing: border-box;
+}
+.m1{
+    color: #1D1D1F;
+text-align: center;
+font-family: SF Pro Display;
+font-size: 48px;
+font-style: normal;
+font-weight: 700;
+line-height: 52.008px; /* 108.349% */
+letter-spacing: -0.144px;
+}
+.m2{
+    color: #1D1D1F;
+text-align: center;
+font-family: SF Pro Display;
+font-size: 21px;
+font-style: normal;
+font-weight: 400;
+line-height: 29.001px; /* 138.1% */
+letter-spacing: 0.231px;
+}
+.magsafe>div>text>a{
+    color: #06C;
+text-align: center;
+font-family: SF Pro Display;
+font-size: 21px;
+font-style: normal;
+font-weight: 400;
+line-height: 29.001px; /* 138.1% */
+letter-spacing: 0.231px;
+text-decoration: none;
+}
+.magsafeimg{
+    padding-top: 67px;
+    padding-bottom: 0px;
+    padding-right: 98.41;
+}
+
+.airtag{
+    display: flex;
+    align-items: center;
+    background: white;
+    width: 1380px;
+height: 530px;
+gap: 34.594px;
+flex-direction: row-reverse;
+margin: 0px 66px 9px 66px;
+justify-content: space-around;
+}
+.air1{
+    color: #1D1D1F;
+text-align: center;
+font-family: SF Pro Display;
+font-size: 48px;
+font-style: normal;
+font-weight: 700;
+line-height: 52.008px; /* 108.349% */
+letter-spacing: -0.144px;
+}
+.air2{
+    color: #1D1D1F;
+text-align: center;
+font-family: SF Pro Display;
+font-size: 21px;
+font-style: normal;
+font-weight: 400;
+line-height: 29.001px; /* 138.1% */
+letter-spacing: 0.231px;
+}
+.airlist{
+    list-style-type: none;
+    display: flex;
+width: 400px;
+height: 29px;
+padding: 2px 103.703px 2px 103.688px;
+justify-content: center;
+align-items: flex-start;
+gap: 25.422px;
+flex-shrink: 0;
+
+}
+.airlist>li>a{
+    color: #06C;
+    text-decoration: none;
+    text-align: center;
+font-family: SF Pro Display;
+font-size: 21px;
+font-style: normal;
+font-weight: 400;
+line-height: 29.001px; /* 138.1% */
+letter-spacing: 0.231px;
+}
+.airtag>img{
+    margin-left: 66px;
+}
+.magicruns{
+    background: white;
+    padding: 45px 158.5px 40px 158.5px;
+    margin-left: 66px;
+    margin-right: 57px;
+}
+
+.magicruns>div>text{
+    color: #1D1D1F;
+text-align: center;
+font-family: SF Pro Display;
+font-size: 48px;
+font-style: normal;
+font-weight: 700;
+line-height: 52.008px; /* 108.349% */
+letter-spacing: -0.144px;
+background-color: white;
+}
+.shopiphone{
+    margin-top: 45.41px;
+}
+.shopiphone>span>a{
+    color: #06C;
+    text-align: center;
+    font-family: SF Pro Display;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32.002px; /* 133.341% */
+    letter-spacing: 0.216px;
+    text-decoration: none;
+}
+
+#section7{
+    background-color: #f2f2f2;
+}
+.deliveryoptions{
+    display: flex;
+    justify-content: center;
+    gap: 150px;
+    text-align: center;
+    padding-top: 83px;
+    padding-bottom: 30px;
+}
+.deliveryoptions1>text{
+    color: #1D1D1F;
+text-align: center;
+font-family: SF Pro Display;
+font-size: 21px;
+font-style: normal;
+font-weight: 700;
+line-height: 29.001px; /* 138.1% */
+letter-spacing: 0.231px;
+}
+.deliveryoptions1>div>text{
+    color: #1D1D1F;
+text-align: center;
+font-family: SF Pro Display;
+font-size: 21px;
+font-style: normal;
+font-weight: 400;
+line-height: 29.001px; /* 138.1% */
+letter-spacing: 0.231px;
+}
+.deliveryoptions1>div>span>a{
+    color: #06C;
+text-align: center;
+font-family: SF Pro Display;
+font-size: 21px;
+font-style: normal;
+font-weight: 400;
+line-height: 29.001px; /* 138.1% */
+letter-spacing: 0.231px;
+text-decoration: none;
+}
+.deliveryoptions2>text{
+    color: #1D1D1F;
+text-align: center;
+font-family: SF Pro Display;
+font-size: 21px;
+font-style: normal;
+font-weight: 700;
+line-height: 29.001px; /* 138.1% */
+letter-spacing: 0.231px;
+}
+.deliveryoptions2>div>text{
+    color: #1D1D1F;
+text-align: center;
+font-family: SF Pro Display;
+font-size: 21px;
+font-style: normal;
+font-weight: 400;
+line-height: 29.001px; /* 138.1% */
+letter-spacing: 0.231px;
+}
+.deliveryoptions2>div>span>a{
+    color: #06C;
+text-align: center;
+font-family: SF Pro Display;
+font-size: 21px;
+font-style: normal;
+font-weight: 400;
+line-height: 29.001px; /* 138.1% */
+letter-spacing: 0.231px;
+text-decoration: none;
+}
+.deliveryoptions3>text{
+    color: #1D1D1F;
+text-align: center;
+font-family: SF Pro Display;
+font-size: 21px;
+font-style: normal;
+font-weight: 700;
+line-height: 29.001px; /* 138.1% */
+letter-spacing: 0.231px;
+}
+.deliveryoptions3>div>text{
+    color: #1D1D1F;
+text-align: center;
+font-family: SF Pro Display;
+font-size: 21px;
+font-style: normal;
+font-weight: 400;
+line-height: 29.001px; /* 138.1% */
+letter-spacing: 0.231px;
+}
+.deliveryoptions3>div>span>a{
+    color: #06C;
+text-align: center;
+font-family: SF Pro Display;
+font-size: 21px;
+font-style: normal;
+font-weight: 400;
+line-height: 29.001px; /* 138.1% */
+letter-spacing: 0.231px;
+text-decoration: none;
+}
+
+#section8>div>text{
+    color: #1D1D1F;
+text-align: center;
+font-family: SF Pro Display;
+font-size: 56px;
+font-style: normal;
+font-weight: 700;
+line-height: 60px; /* 107.143% */
+letter-spacing: -0.28px;
+}
+#section8>div:first-child{
+    background-color: #f2f2f2;
+    text-align: center;
+    padding-top: 106px;
+    padding-bottom: 67px;
+}
+.fiveiphone>img{
+   margin-left: 66px;
+   margin-right: 66px;
+   margin-bottom: 20px;
+   
+}
+.fiveiphone{
+    background-color: #f2f2f2;
+}
+.switch{
+    background-color: #f2f2f2;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 593px;
+    margin-top: 0px;
+}
+.switch>div>text{
+    color: #1D1D1F;
+text-align: center;
+font-family: SF Pro Display;
+font-size: 48px;
+font-style: normal;
+font-weight: 700;
+line-height: 52.008px; /* 108.349% */
+letter-spacing: -0.144px;
+
+}
+.switch>div{
+    width: 675px;
+    background: white;
+    padding-top: 59px;
+    padding-bottom: 25px;
+}
+.switch>div>span>a{
+    color: #06C;
+text-align: center;
+font-family: SF Pro Display;
+font-size: 21px;
+font-style: normal;
+font-weight: 400;
+line-height: 29.001px; /* 138.1% */
+letter-spacing: 0.231px;
+text-decoration: none;
+}
+
+#section9{
+    background-color: #f2f2f2;
+
+}
+#section9>p{
+    color: #1D1D1F;
+text-align: center;
+font-family: SF Pro Display;
+font-size: 56px;
+font-style: normal;
+font-weight: 700;
+line-height: 60px; /* 107.143% */
+letter-spacing: -0.28px;
+padding-top: 106px;
+margin-top: 0px;
+}
+
+.appleservices{
+    background-color: white;
+    margin: 0px 66px 30px 66px;
+    display: flex;
+    justify-content: space-around;
+    padding-top: 150px;
+    padding-bottom: 130px;
+}
+.appleservices>div{
+    text-align: center;
+}
+
+.appleservices>div>div>text{
+    color: #1D1D1F;
+text-align: center;
+font-family: SF Pro Display;
+font-size: 28px;
+font-style: normal;
+font-weight: 700;
+line-height: 32px; /* 114.286% */
+letter-spacing: 0.196px;
+}
+.appleservices>div>ul>li{
+    list-style-type: none;
+}
+.appleservices>div>div{
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 26px;
+}
+.appleservices>div>div>span>a{
+    color: #06C;
+text-align: center;
+font-family: SF Pro Display;
+font-size: 21px;
+font-style: normal;
+font-weight: 400;
+line-height: 29.001px; /* 138.1% */
+letter-spacing: 0.231px;
+text-decoration: none;
+}
+
+.tvandmusic{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    margin-bottom: 30px;
+}
+.appletv{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: black;
+    text-align: center;
+    padding: 67px 0px 41.92px 0px;
+}
+.appletv>div>text{
+    color: #F5F5F7;
+text-align: center;
+font-family: SF Pro Display;
+font-size: 21px;
+font-style: normal;
+font-weight: 400;
+line-height: 29.001px; /* 138.1% */
+letter-spacing: 0.231px;
+}
+.appletv1{
+    display: flex;
+    justify-content: center;
+    gap: 70px;
+}
+.appletv>div>div>span>a{
+    color: #2997FF;
+text-align: center;
+font-family: SF Pro Display;
+font-size: 21px;
+font-style: normal;
+font-weight: 400;
+line-height: 29.001px; /* 138.1% */
+letter-spacing: 0.231px;
+text-decoration: none;
+
+}
+.applemusic{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+}
+.applemusic{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.applemusic>div>text{
+    color: #1D1D1F;
+text-align: center;
+font-family: SF Pro Display;
+font-size: 21px;
+font-style: normal;
+font-weight: 400;
+line-height: 29.001px; /* 138.1% */
+letter-spacing: 0.231px;
+}
+.applemusic1{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    padding-bottom: 67px;
+}
+.applemusic>div>div>span>a{
+    color: #06C;
+text-align: center;
+font-family: SF Pro Display;
+font-size: 21px;
+font-style: normal;
+font-weight: 400;
+line-height: 29.001px; /* 138.1% */
+letter-spacing: 0.231px;
+text-decoration: none;
+}
+.applenews{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+}
+.newsplus{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #FA3454;
+    text-align: center;
+    margin-bottom: 30px;
+}
+.news1{
+    padding-top: 70px;
+}
+.newsplus>text{
+    color: #F5F5F7;
+text-align: center;
+font-family: SF Pro Display;
+font-size: 21px;
+font-style: normal;
+font-weight: 400;
+line-height: 29.001px; /* 138.1% */
+letter-spacing: 0.231px;
+}
+.news2{
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    padding-bottom: 20px;
+}
+.newsplus>div>span>a{
+    color: #F5F5F7;
+text-align: center;
+font-family: SF Pro Display;
+font-size: 21px;
+font-style: normal;
+font-weight: 400;
+line-height: 29.001px; /* 138.1% */
+letter-spacing: 0.231px;
+text-decoration: none;
+}
+
+.fitness{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    gap: 30px;
+}
+.fitness1{
+    background-color: #f9f9f9;
+    padding-top: 68px;
+    width: 675px;
+    padding-bottom: 42px;
+}
+.fitness1>div>div>text{
+    color: #1D1D1F;
+text-align: center;
+font-family: SF Pro Display;
+font-size: 21px;
+font-style: normal;
+font-weight: 400;
+line-height: 29.001px; /* 138.1% */
+letter-spacing: 0.231px;
+}
+.fitlist{
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    padding-bottom: 44px;
+}
+.fitlist>span>a{
+    color: #06C;
+text-align: center;
+font-family: SF Pro Display;
+font-size: 21px;
+font-style: normal;
+font-weight: 400;
+line-height: 29.001px; /* 138.1% */
+letter-spacing: 0.231px;
+text-decoration: none;
+}
+.giftcard{
+    background-color: #f9f9f9;
+    padding-top: 68px;
+    width: 675px;
+    height: 516px;
+    padding-bottom: 55px;
+}
+.giftcard>div>text{
+    color: #1D1D1F;
+text-align: center;
+font-family: SF Pro Display;
+font-size: 21px;
+font-style: normal;
+font-weight: 400;
+line-height: 29.001px; /* 138.1% */
+letter-spacing: 0.231px;
+}
+.giftlist{
+    display: flex;
+    justify-content: center;
+    gap: 68px;
+    padding-bottom: 38px;
+}
+.giftlist>span>a{
+    color: #06C;
+text-align: center;
+font-family: SF Pro Display;
+font-size: 21px;
+font-style: normal;
+font-weight: 400;
+line-height: 29.001px; /* 138.1% */
+letter-spacing: 0.231px;
+text-decoration: none;
+}
+
+.research{
+    display: flex;
+    justify-content: center;
+    gap: 200px;
+    width: 1380px;
+    background-color: #FAFAFA;
+    margin-left: 66px;
+    margin-right: 66px;
+    align-items: center;
+    margin-top: 30px;
+}
+
+
+.research1{
+    color: #1D1D1F;
+text-align: center;
+font-family: SF Pro Display;
+font-size: 48px;
+font-style: normal;
+font-weight: 700;
+line-height: 52.008px; /* 108.349% */
+letter-spacing: -0.144px;
+    text-align: center;
+}
+.research2{
+    color: #1D1D1F;
+text-align: center;
+font-family: SF Pro Display;
+font-size: 21px;
+font-style: normal;
+font-weight: 400;
+line-height: 29.001px; /* 138.1% */
+letter-spacing: 0.231px;
+}
+.research2>span>a{
+    color: #06C;
+text-align: center;
+font-family: SF Pro Display;
+font-size: 21px;
+font-style: normal;
+font-weight: 400;
+line-height: 29.001px; /* 138.1% */
+letter-spacing: 0.231px;
+text-decoration: none;
+}
+.research>img{
+    padding-top: 88px;
+}
+
+.footer1{
+    background-color: #f2f2f2;
+    padding-left: 244px;
+    padding-right: 244px;
+    color: #424245;
+font-family: SF Pro display;
+font-size: 12px;
+font-style: normal;
+font-weight: 400;
+line-height: 16px; /* 133.337% */
+padding-top: 0px;
+}
+.footer1>ul{
+    list-style-type: none;
+}
+.footer1>ol{
+    list-style-type: none;
+    padding-left: 50px;
+}
+.footertable1{
+    display: flex;
+    justify-content: space-evenly;
+    color: #424245;
+font-family: SF Pro display;
+font-size: 12px;
+font-style: normal;
+font-weight: 400;
+line-height: 16px; /* 133.337% */
+background-color:#f2f2f2;
+padding: 0px 190px 0px 190px;
+}
+.none{
+    list-style-type: none;
+    line-height: 30px;
+}
+.tablehead{
+    color: #1D1D1F;
+font-family: SF Pro display;
+font-size: 12px;
+font-style: normal;
+font-weight: 700;
+line-height: 16px; /* 133.337% */
+letter-spacing: -0.12px;
+}
+#section10{
+background-color:#f2f2f2;
+padding: 0px 244px 0px 244px;
+}
+.ft1{
+    color: #6E6E73;
+font-family: SF Pro display;
+font-size: 12px;
+font-style: normal;
+font-weight: 400;
+line-height: 16px; /* 133.337% */
+}
+.last1>span>a{
+    color: #06C;
+font-family: SF Pro display;
+font-size: 12px;
+font-style: normal;
+font-weight: 400;
+line-height: 16px;
+text-decoration: none;
+}
+.last1>span{
+    color: #6E6E73;
+font-family: SF Pro display;
+font-size: 12px;
+font-style: normal;
+font-weight: 400;
+line-height: 16px; /* 133.337% */
+}
+.last2>text{
+    color: #6E6E73;
+font-family: SF Pro Text;
+font-size: 12px;
+font-style: normal;
+font-weight: 400;
+line-height: 16px; /* 133.337% */
+}
+.last3{
+    color: #424245;
+font-family: SF Pro display;
+font-size: 12px;
+font-style: normal;
+font-weight: 400;
+line-height: 16px; /* 133.337% */
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
